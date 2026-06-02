@@ -1,0 +1,3635 @@
+{
+  "games": [
+    {   "id": 3498,
+        "slug": "grand-theft-auto-v", 
+        "name": "Grand Theft Auto V", 
+        "released": "2013-09-17", 
+        "background_image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+        "rating": 4.47, 
+        "metacritic": 92,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 187,
+						"name": "PlayStation 5",
+						"slug": "playstation5",
+						"image": null,
+						"year_end": null,
+						"year_start": 2020,
+						"games_count": 1490,
+						"image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+					},
+					"released_at": "2013-09-17",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 186,
+						"name": "Xbox Series S/X",
+						"slug": "xbox-series-x",
+						"image": null,
+						"year_end": null,
+						"year_start": 2020,
+						"games_count": 1255,
+						"image_background": "https://media.rawg.io/media/games/348/348640e78a7fcd4bb7dcad4fea014eeb.jpg"
+					},
+					"released_at": "2013-09-17",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2013-09-17",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2013-09-17",
+					"requirements_en": {
+						"minimum": "Minimum:OS: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)Processor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHzMemory: 4 GB RAMGraphics: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)Storage: 72 GB available spaceSound Card: 100% DirectX 10 compatibleAdditional Notes: Over time downloadable content and programming changes will change the system requirements for this game.  Please refer to your hardware manufacturer and www.rockstargames.com/support for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.     Other requirements:  Installation and online play requires log-in to Rockstar Games Social Club (13+) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Social Club platform, DirectX , Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication software that recognizes certain hardware attributes for entitlement, digital rights management, system, and other support purposes.     SINGLE USE SERIAL CODE REGISTRATION VIA INTERNET REQUIRED; REGISTRATION IS LIMITED TO ONE ROCKSTAR GAMES SOCIAL CLUB ACCOUNT (13+) PER SERIAL CODE; ONLY ONE PC LOG-IN ALLOWED PER SOCIAL CLUB ACCOUNT AT ANY TIME; SERIAL CODE(S) ARE NON-TRANSFERABLE ONCE USED; SOCIAL CLUB ACCOUNTS ARE NON-TRANSFERABLE.  Partner Requirements:  Please check the terms of service of this site before purchasing this software.",
+						"recommended": "Recommended:OS: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1Processor: Intel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs)Memory: 8 GB RAMGraphics: NVIDIA GTX 660 2GB / AMD HD 7870 2GBStorage: 72 GB available spaceSound Card: 100% DirectX 10 compatibleAdditional Notes:"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2013-09-17",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2013-09-17",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2013-09-17",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+        	{
+				"id": 5,
+				"title": "A World You Can Get Lost In Forever",
+				"count": 4441,
+				"percent": 58.99,
+				"comment": "A living, breathing world unlike anything else. The three-protagonist structure is genius and the heists are unforgettable. GTA V set the bar for open-world games and nothing has quite matched it since."
+			},
+			{
+				"id": 4,
+				"title": "Big, Bold, and Worth Every Hour",
+				"count": 2467,
+				"percent": 32.77,
+				"comment": "Huge, fun, and packed with content. The story takes a while to get going but pays off. Online mode is a game in itself. A must-play for anyone who enjoys open-world games."
+			},
+			{
+				"id": 3,
+				"title": "Impressive Scale, Shallow Core",
+				"count": 473,
+				"percent": 6.28,
+				"comment": "It's impressive in scale but I found the story shallow and the characters hard to like. The constant re-releases feel cynical. A good game that's been overhyped into a great one."
+        	},
+        	{
+				"id": 1,
+				"title": "Mean-Spirited and Overrated",
+				"count": 147,
+				"percent": 1.95,
+				"comment": "Not for me. The tone is mean-spirited throughout and I found little to care about in the story. The world is big but feels empty once the novelty wears off."
+        	}
+      	],
+      	"description": "Grand Theft Auto V is an open-world action-adventure game set in the fictional state of San Andreas, based on Southern California. Players can switch between three protagonists — Michael, Trevor, and Franklin — as they plan and execute heists across the sprawling city of Los Santos. The game features a massive open world filled with activities, side missions, and a thriving online multiplayer mode."
+    	,
+		"playtime": {
+			"main_story": 31,
+			"main_extra": 47,
+			"completionist": 79
+		},
+        "short_screenshots": [
+				{
+					"id": 1,
+					"image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+				},
+				{
+					"id": 1827223,
+					"image": "https://media.rawg.io/media/screenshots/f95/f9518b1d99210c0cae21fc09e95b4e31.jpg"
+				},
+				{
+					"id": 1827225,
+					"image": "https://media.rawg.io/media/screenshots/a5c/a5c95ea539c87d5f538763e16e18fb99.jpg"
+				},
+				{
+					"id": 1827226,
+					"image": "https://media.rawg.io/media/screenshots/a7e/a7e990bc574f4d34e03b5926361d1ee7.jpg"
+				},
+				{
+					"id": 1827228,
+					"image": "https://media.rawg.io/media/screenshots/eb0/eb0a2c0de9194a635fc0cd04f5a29ae7.jpg"
+				},
+				{
+					"id": 1827229,
+					"image": "https://media.rawg.io/media/screenshots/ec7/ec7f05fb82290fea9647b7879fe9a6bf.jpg"
+				},
+				{
+					"id": 1827230,
+					"image": "https://media.rawg.io/media/screenshots/260/260559fbefce0b36c66ae5e280c7d774.jpg"
+				}
+        ]
+    },
+    {   "id": 3328, 
+        "slug": "the-witcher-3-wild-hunt", 
+        "name": "The Witcher 3: Wild Hunt", 
+        "released": "2015-05-18", 
+        "background_image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg", 
+        "rating": 4.64, 
+        "metacritic": 92,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 5,
+					"name": "RPG",
+					"slug": "role-playing-games-rpg",
+					"games_count": 62034,
+					"image_background": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 187,
+						"name": "PlayStation 5",
+						"slug": "playstation5",
+						"image": null,
+						"year_end": null,
+						"year_start": 2020,
+						"games_count": 1490,
+						"image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+					},
+					"released_at": "2015-05-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 186,
+						"name": "Xbox Series S/X",
+						"slug": "xbox-series-x",
+						"image": null,
+						"year_end": null,
+						"year_start": 2020,
+						"games_count": 1255,
+						"image_background": "https://media.rawg.io/media/games/348/348640e78a7fcd4bb7dcad4fea014eeb.jpg"
+					},
+					"released_at": "2015-05-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2015-05-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2015-05-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 7,
+						"name": "Nintendo Switch",
+						"slug": "nintendo-switch",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5773,
+						"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+					},
+					"released_at": "2015-05-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2015-05-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2015-05-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "The Greatest RPG Ever Crafted",
+				"count": 5608,
+				"percent": 76.52,
+				"comment": "The greatest RPG ever made. The side quests alone are better than the main stories of most games. Geralt is a compelling protagonist and the world of the game feels genuinely lived-in."
+			},
+			{
+				"id": 4,
+				"title": "A Stunning World Worth Exploring",
+				"count": 1200,
+				"percent": 16.37,
+				"comment": "A stunning achievement in world-building and storytelling. The combat takes getting used to but the writing more than compensates. Blood and Wine is worth the price alone."
+			},
+			{
+				"id": 3,
+				"title": "Great World, Frustrating Combat",
+				"count": 320,
+				"percent": 4.37,
+				"comment": "Undeniably impressive but I struggled with the combat and the slow opening hours. Once it clicks it's great, but the barrier to entry is higher than people admit."
+			},
+			{
+				"id": 1,
+				"title": "Too Slow to Hold My Attention",
+				"count": 201,
+				"percent": 2.74,
+				"comment": "Too slow and too long for my taste. The combat never felt satisfying and I lost interest before the story hit its stride. Not every great game is for every player."
+			}
+      	],
+      	"description": "The Witcher 3: Wild Hunt is an action RPG set in a vast open world inspired by Slavic mythology. You play as Geralt of Rivia, a monster hunter for hire, searching for his adopted daughter who is being pursued by a supernatural force. The game is renowned for its deep storytelling, morally complex choices, and an extraordinarily rich world packed with meaningful quests."
+    	,
+		"playtime": {
+			"main_story": 51,
+			"main_extra": 103,
+			"completionist": 173
+		},
+        "short_screenshots": [
+				{
+					"id": 235,
+					"image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+				},
+				{
+					"id": 30336,
+					"image": "https://media.rawg.io/media/screenshots/1ac/1ac19f31974314855ad7be266adeb500.jpg"
+				},
+				{
+					"id": 30337,
+					"image": "https://media.rawg.io/media/screenshots/6a0/6a08afca95261a2fe221ea9e01d28762.jpg"
+				},
+				{
+					"id": 30338,
+					"image": "https://media.rawg.io/media/screenshots/cdd/cdd31b6b4a687425a87b5ce231ac89d7.jpg"
+				},
+				{
+					"id": 30339,
+					"image": "https://media.rawg.io/media/screenshots/862/862397b153221a625922d3bb66337834.jpg"
+				},
+				{
+					"id": 30340,
+					"image": "https://media.rawg.io/media/screenshots/166/166787c442a45f52f4f230c33fd7d605.jpg"
+				},
+				{
+					"id": 30342,
+					"image": "https://media.rawg.io/media/screenshots/f63/f6373ee614046d81503d63f167181803.jpg"
+				}
+		]
+    },
+    {   "id": 4200, 
+        "slug": "portal-2", 
+        "name": "Portal 2", 
+        "released": "2011-04-18", 
+        "background_image": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
+        "rating": 4.58, 
+        "metacritic": 95,
+		"genres": [
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				},
+				{
+					"id": 7,
+					"name": "Puzzle",
+					"slug": "puzzle",
+					"games_count": 97449,
+					"image_background": "https://media.rawg.io/media/games/948/948fe7f00b6cba8472f5ecd07a455077.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2011-04-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2011-04-18",
+					"requirements_en": null,
+					"requirements_ru": {
+						"minimum": "Core 2 Duo/Athlon X2 2 ГГц,1 Гб памяти,GeForce 7600/Radeon X800,10 Гб на винчестере,интернет-соединение",
+						"recommended": "Core 2 Duo/Athlon X2 2.5 ГГц,2 Гб памяти,GeForce GTX 280/Radeon HD 2600,10 Гб на винчестере,интернет-соединение"
+					}
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2011-04-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2011-04-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2011-04-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2011-04-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "Flawless From Start to Finish",
+				"count": 4251,
+				"percent": 68.98,
+				"comment": "Portal 2 is a perfect game. The puzzles are ingenious, the writing is hilarious, and the co-op mode is one of the best gaming experiences I've ever had. An absolute must-play."
+			},
+			{
+				"id": 4,
+				"title": "Clever, Funny, and Satisfying",
+				"count": 1561,
+				"percent": 25.33,
+				"comment": "Wonderfully creative and funny throughout. The puzzle difficulty ramps up at a great pace. GLaDOS and Wheatley are iconic characters. Short but completely satisfying."
+			},
+			{
+				"id": 3,
+				"title": "Good But Not the Masterpiece",
+				"count": 186,
+				"percent": 3.02,
+				"comment": "Good puzzles and sharp writing, but I found the mid-game drag a little. The co-op is fun but requires a patient partner. Worth playing, just not the masterpiece some claim."
+			},
+			{
+				"id": 1,
+				"title": "Puzzles Are Not For Everyone",
+				"count": 165,
+				"percent": 2.68,
+				"comment": "Puzzle games aren't my genre and this didn't convert me. The humor is clever but the gameplay loop grew repetitive quickly. Respect the craft, just not my thing."
+			}
+      	],
+      	"description": "Portal 2 is a first-person puzzle game developed by Valve. Players use a portal gun to create linked doorways through space, solving increasingly complex physics-based puzzles. The game features a single-player campaign with a compelling story and a separate co-op mode where two players must work together. Celebrated for its wit, creativity, and brilliant level design."
+    	,
+		"playtime": {
+			"main_story": 9,
+			"main_extra": 12,
+			"completionist": 17
+		},
+        "short_screenshots": [
+				{
+					"id": 81,
+					"image": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+				},
+				{
+					"id": 99018,
+					"image": "https://media.rawg.io/media/screenshots/221/221a03c11e5ff9f765d62f60d4b4cbf5.jpg"
+				},
+				{
+					"id": 99019,
+					"image": "https://media.rawg.io/media/screenshots/173/1737ff43c14f40294011a209b1012875.jpg"
+				},
+				{
+					"id": 99020,
+					"image": "https://media.rawg.io/media/screenshots/b11/b11a2ae0664f0e8a1ef2346f99df26e1.jpg"
+				},
+				{
+					"id": 99021,
+					"image": "https://media.rawg.io/media/screenshots/9b1/9b107a790909b31918ebe2f40547cc85.jpg"
+				},
+				{
+					"id": 99022,
+					"image": "https://media.rawg.io/media/screenshots/d05/d058fc7f7fa6128916c311eb14267fed.jpg"
+				},
+				{
+					"id": 99023,
+					"image": "https://media.rawg.io/media/screenshots/415/41543dcc12dffc8e97d85a56ad42cda8.jpg"
+				}
+		]
+    },
+    {   "id": 4291, 
+        "slug": "counter-strike-global-offensive", 
+        "name": "Counter-Strike: Global Offensive", 
+        "released": "2012-08-21", 
+        "background_image": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg", 
+        "rating": 3.57, 
+        "metacritic": 81,
+		"genres": [
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2012-08-21",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7/Vista/XP<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
+					},
+					"requirements_ru": {
+						"minimum": "Сore 2 Duo/Athlon x2 64 1.8 ГГц,2 Гб памяти,GeForce 8800/Radeon X9800,7.6 Гб на винчестере,интернет-соединение",
+						"recommended": "Core 2 Duo E6600/Phenom X3 8750,4 Гб памяти,GeForce 480 GTX/Radeon HD 6970,7.6 Гб на винчестере,интернет-соединение"
+					}
+				},
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2012-08-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2012-08-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2012-08-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 4,
+				"title": "The Gold Standard of Competitive Play",
+				"count": 1713,
+				"percent": 46.6,
+				"comment": "The best competitive shooter ever made at its peak. Nothing matches the tension of a close match or the satisfaction of a well-executed clutch round. Just be prepared to grind."
+			},
+			{
+				"id": 3,
+				"title": "Great Game, Terrible Community",
+				"count": 948,
+				"percent": 25.79,
+				"comment": "Great gameplay undermined by a toxic community and rampant cheating. The highs are genuinely thrilling but the lows are exhausting. Approach with thick skin and managed expectations."
+			},
+			{
+				"id": 5,
+				"title": "Hundreds of Hours, Still Learning",
+				"count": 606,
+				"percent": 16.49,
+				"comment": "CS:GO defined competitive shooters for a generation. The economy system adds a strategic layer that no other game has replicated. Hundreds of hours later and I'm still learning."
+			},
+			{
+				"id": 1,
+				"title": "Cheaters Ruined What Could Be Great",
+				"count": 409,
+				"percent": 11.13,
+				"comment": "The cheating problem makes ranked play miserable and the learning curve is punishing for newcomers. Other shooters offer the same thrills with far less frustration."
+			}
+      	],
+      	"description": "Counter-Strike: Global Offensive is a competitive tactical shooter in which two teams — terrorists and counter-terrorists — face off in round-based matches. Players purchase weapons between rounds and work to complete objectives such as planting or defusing bombs. Known for its precise gunplay and high skill ceiling, it became one of the most popular esports titles in the world."
+    	,
+		"playtime": {
+			"main_story": null,
+			"main_extra": null,
+			"completionist": null
+		},
+        "short_screenshots": [
+				{
+					"id": 81,
+					"image": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg"
+				},
+				{
+					"id": 81644,
+					"image": "https://media.rawg.io/media/screenshots/ff1/ff16661bb15f7969b44f6c4118870e44.jpg"
+				},
+				{
+					"id": 81645,
+					"image": "https://media.rawg.io/media/screenshots/41b/41bb769d247412eac3336dec934aed72.jpg"
+				},
+				{
+					"id": 81646,
+					"image": "https://media.rawg.io/media/screenshots/754/754545acdbf71f56e8902a07c7d20696.jpg"
+				},
+				{
+					"id": 81647,
+					"image": "https://media.rawg.io/media/screenshots/fd8/fd873cab4c66db0b8e85d8a66e940074.jpg"
+				},
+				{
+					"id": 81648,
+					"image": "https://media.rawg.io/media/screenshots/7db/7db2954f7908b6749c36a5f3c9052f65.jpg"
+				},
+				{
+					"id": 81649,
+					"image": "https://media.rawg.io/media/screenshots/337/337a3e98b5933f456a2b37b59fab5f39.jpg"
+				}
+		]
+    },
+    {   "id": 5286, 
+        "slug": "tomb-raider", 
+        "name": "Tomb Raider", 
+        "released": "2013-03-05", 
+        "background_image": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg", 
+        "rating": 4.06, 
+        "metacritic": 86,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2013-03-05",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2013-03-05",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2013-03-05",
+					"requirements_en": {
+						"minimum": "Minimum:\r\n\r\nOS: macOS 10.9.1\r\n\r\nProcessor: 2.0GHz Intel or greater\r\n\r\nMemory: 4GB\r\n\r\nGraphics: 512Mb AMD 4850, 512Mb Nvidia 650M, Intel HD4000\r\n\r\nHard Drive: 14GB"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2013-03-05",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows XP / Windows Vista / Windows 7<br>\t</li><li><strong>Processor:</strong>1.8 GHz Processor<br>\t</li><li><strong>Memory:</strong>512 MB RAM<br>\t</li><li><strong>Graphics:</strong>3D graphics card compatible with DirectX 9<br>\t</li><li><strong>DirectX®:</strong>9.0<br>\t</li><li><strong>Hard Drive:</strong>2 GB HD space</li></ul>"
+					},
+					"requirements_ru": {
+						"minimum": "i486-100, 8 Мб",
+						"recommended": "Pentium 166, 16 Мб"
+					}
+				}
+		],
+		"ratings": [
+			{
+				"id": 4,
+				"title": "A Confident and Exciting Reboot",
+				"count": 2496,
+				"percent": 60.41,
+				"comment": "A confident and exciting reboot that gives Lara real depth and vulnerability. The island setting is gorgeous and the combat is satisfying. A great action game that surprised me."
+			},
+			{
+				"id": 5,
+				"title": "Lara's Best Adventure Yet",
+				"count": 1066,
+				"percent": 25.8,
+				"comment": "One of the best action-adventure games of its generation. Lara's transformation from frightened survivor to capable warrior is handled with genuine care. Visually stunning throughout."
+			},
+			{
+				"id": 3,
+				"title": "Polished But Playing It Too Safe",
+				"count": 448,
+				"percent": 10.84,
+				"comment": "Competent and polished but heavily derivative of Uncharted. The story is predictable and the open areas feel padded. A good game that plays it safe at every turn."
+			},
+			{
+				"id": 1,
+				"title": "Generic From Beginning to End",
+				"count": 122,
+				"percent": 2.95,
+				"comment": "Felt generic from start to finish. The survival premise is quickly abandoned in favor of standard action game tropes. Nothing here you haven't seen done better elsewhere."
+			}
+      	],
+      	"description": "Tomb Raider is an action-adventure game that reimagines the origin of Lara Croft. Shipwrecked on a mysterious island, a young and inexperienced Lara must fight to survive against hostile forces while uncovering dark secrets about the island's past. The game blends exploration, combat, and puzzle-solving in a gritty and cinematic experience."
+    	,
+		"playtime": {
+			"main_story": 11,
+			"main_extra": 15,
+			"completionist": 23
+		},
+        "short_screenshots": [
+				{
+					"id": 71,
+					"image": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg"
+				},
+				{
+					"id": 99160,
+					"image": "https://media.rawg.io/media/screenshots/4f9/4f9d5efdecfb63cb99f1baa4c0ceb3bf.jpg"
+				},
+				{
+					"id": 99161,
+					"image": "https://media.rawg.io/media/screenshots/80f/80f373082b2a74da3f9c3fe2b877dcd0.jpg"
+				},
+				{
+					"id": 99162,
+					"image": "https://media.rawg.io/media/screenshots/a87/a8733e877f8fbe45e4a727c22a06aa2e.jpg"
+				},
+				{
+					"id": 99163,
+					"image": "https://media.rawg.io/media/screenshots/3f9/3f91678c6805a76419fa4ea3a045a909.jpg"
+				},
+				{
+					"id": 99164,
+					"image": "https://media.rawg.io/media/screenshots/417/4170bf07be43a8d8249193883f87f1c1.jpg"
+				},
+				{
+					"id": 99165,
+					"image": "https://media.rawg.io/media/screenshots/2a4/2a4250f83ad9e959d8b4ca9376ae34ea.jpg"
+				}
+		]
+    },
+    {   "id": 13536, 
+        "slug": "portal", 
+        "name": "Portal", 
+        "released": "2007-10-09", 
+        "background_image": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg", 
+        "rating": 4.49, 
+        "metacritic": 90,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 7,
+					"name": "Puzzle",
+					"slug": "puzzle",
+					"games_count": 97449,
+					"image_background": "https://media.rawg.io/media/games/948/948fe7f00b6cba8472f5ecd07a455077.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2007-10-09",
+					"requirements_en": {
+						"minimum": "<strong>Minimum: </strong>OS X version Leopard 10.5.8, Snow Leopard 10.6.3, 1GB RAM, NVIDIA GeForce 8 or higher, ATI X1600 or higher, or Intel HD 3000 or higher Mouse, Keyboard, Internet Connection"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2007-10-09",
+					"requirements_en": {
+						"minimum": "<p><strong>Minimum: </strong>1.7 GHz Processor, 512MB RAM, DirectX&reg; 8.1 level Graphics Card (Requires support for SSE), Windows&reg; 7 (32/64-bit)/Vista/XP, Mouse, Keyboard, Internet Connection</p>\r\n\t\t\t<p><strong>Recommended: </strong>Pentium 4 processor (3.0GHz, or better), 1GB RAM, DirectX&reg; 9 level Graphics Card, Windows&reg; 7 (32/64-bit)/Vista/XP, Mouse, Keyboard, Internet Connection</p>"
+					},
+					"requirements_ru": {
+						"minimum": "Pentium 4/Athlon XP 1.7 ГГц,512 Мб памяти,3D-ускоритель со 128 Мб памяти,7.5 Гб на винчестере,Интернет-соединение 128 Кб/c",
+						"recommended": "Core 2 Duo/Athlon 64 3 ГГц,1 Гб памяти,3D-ускоритель с 512 Мб памяти,12 Гб на винчестере,Интернет-соединение 512 Кб/c"
+					}
+				},
+				{
+					"platform": {
+						"id": 21,
+						"name": "Android",
+						"slug": "android",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 52533,
+						"image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+					},
+					"released_at": "2007-10-09",
+					"requirements_en": {
+						"minimum": "4.4 and up"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2007-10-09",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2007-10-09",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2007-10-09",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 7,
+						"name": "Nintendo Switch",
+						"slug": "nintendo-switch",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5773,
+						"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+					},
+					"released_at": "2007-10-09",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "One of the Most Original Games Ever Made",
+				"count": 3023,
+				"percent": 59.61,
+				"comment": "A perfect game in every sense. Clever, funny, short, and endlessly replayable. The portal mechanic is one of the most original ideas in game design history. Essential playing."
+			},
+			{
+				"id": 4,
+				"title": "Brilliant Concept, Brilliant Execution",
+				"count": 1728,
+				"percent": 34.08,
+				"comment": "Brilliant concept executed flawlessly. It's over before you know it but leaves a lasting impression. The dark humor and ominous atmosphere make it unlike anything else."
+			},
+			{
+				"id": 3,
+				"title": "Too Short to Be Truly Satisfying",
+				"count": 204,
+				"percent": 4.02,
+				"comment": "Clever for sure, but too short to be truly satisfying. The story barely gets started before it ends and I wanted much more. Feels like a proof of concept rather than a full game."
+			},
+			{
+				"id": 1,
+				"title": "A Concept Without Enough Substance",
+				"count": 116,
+				"percent": 2.29,
+				"comment": "Puzzle games aren't for everyone and this didn't win me over. The concept is interesting but the execution felt cold and mechanical. Portal 2 is the better version of this idea."
+			}
+      	],
+      	"description": "Portal is a first-person puzzle game in which players navigate a series of test chambers using a device that creates interconnected portals on surfaces. Originally released as part of The Orange Box, the game combines clever spatial puzzles with a darkly comedic narrative involving a sinister AI. A short but unforgettable experience that changed how players think about game design."
+    	,
+		"playtime": {
+			"main_story": 2,
+			"main_extra": 3,
+			"completionist": 5
+		},
+        "short_screenshots": [
+				{
+					"id": 41,
+					"image": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+				},
+				{
+					"id": 115793,
+					"image": "https://media.rawg.io/media/screenshots/99e/99e94bd55eb75fa6e75c3dcbb1a570b2.jpg"
+				},
+				{
+					"id": 115794,
+					"image": "https://media.rawg.io/media/screenshots/2f0/2f0297a46934d9fa914c626902b1ce20.jpg"
+				},
+				{
+					"id": 115795,
+					"image": "https://media.rawg.io/media/screenshots/3b3/3b3713fbca6194dfc4d6e8a8d006d354.jpg"
+				},
+				{
+					"id": 115796,
+					"image": "https://media.rawg.io/media/screenshots/c6f/c6f9afc3e4dd51068b22f04acbc6ca99.jpg"
+				},
+				{
+					"id": 115797,
+					"image": "https://media.rawg.io/media/screenshots/748/74841207eec76ebc7fc03210168bfb7e.jpg"
+				},
+				{
+					"id": 115798,
+					"image": "https://media.rawg.io/media/screenshots/e72/e7256b4caedf099bcb8ebd332f892334.jpg"
+				}
+		]
+    },
+    {   "id": 12020, 
+        "slug": "left-4-dead-2", 
+        "name": "Left 4 Dead 2", 
+        "released": "2009-11-17", 
+        "background_image": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg", 
+        "rating": 4.1, 
+        "metacritic": 89,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2009-11-17",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2009-11-17",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2009-11-17",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7 32/64-bit / Vista 32/64 / XP<br></li><li><strong>Processor:</strong> Pentium 4 3.0GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 13 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible sound card</li></ul>",
+						"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7 32/64-bit / Vista 32/64 / XP<br></li><li><strong>Processor:</strong> Intel core 2 duo 2.4GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video Card Shader model 3.0. NVidia 7600, ATI X1600 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 13 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible sound card</li></ul>"
+					},
+					"requirements_ru": {
+						"minimum": "Pentium 4/Athlon 64 3 ГГц,1 Гб памяти,GeForce 6600/Radeon X800,7.5 Гб на винчестере",
+						"recommended": "Core 2 Duo/Athlon 64 X2 2.4 ГГц,2 Гб памяти,GeForce 7600/Radeon X1600,7.5 Гб на винчестере"
+					}
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2009-11-17",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 4,
+				"title": "Still the Best Co-Op Zombie Game",
+				"count": 1832,
+				"percent": 53.3,
+				"comment": "Still the best co-op zombie experience out there. The AI Director keeps things tense and unpredictable. Playing with three good friends on Expert difficulty is gaming at its finest."
+			},
+			{
+				"id": 5,
+				"title": "Teamwork at Its Most Thrilling",
+				"count": 1094,
+				"percent": 31.83,
+				"comment": "A flawless co-op shooter that has never been matched. The special infected are brilliantly designed to force teamwork and the campaigns are varied and endlessly replayable."
+			},
+			{
+				"id": 3,
+				"title": "Fun With Friends, Empty Without Them",
+				"count": 385,
+				"percent": 11.2,
+				"comment": "Fun in short bursts but gets repetitive quickly without friends to play with. The solo experience is lonely and the AI teammates are unreliable. A game designed around its multiplayer."
+			},
+			{
+				"id": 1,
+				"title": "Zombie Fatigue Set In Fast",
+				"count": 126,
+				"percent": 3.67,
+				"comment": "Zombie fatigue set in fast. The gameplay loop is shallow and without good teammates the experience falls flat. There are better co-op shooters available today."
+			}
+      	],
+      	"description": "Left 4 Dead 2 is a cooperative first-person shooter set during a zombie apocalypse. Four survivors must fight their way through hordes of infected across multiple campaigns, each with unique settings and objectives. The game's AI Director dynamically adjusts enemy spawns and pacing based on player performance, ensuring no two runs feel identical. Best played with friends."
+    	,
+		"playtime": {
+			"main_story": 8,
+			"main_extra": 20,
+			"completionist": 40
+		},
+        "short_screenshots": [
+				{
+					"id": 61,
+					"image": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg"
+				},
+				{
+					"id": 99748,
+					"image": "https://media.rawg.io/media/screenshots/4c0/4c043fd1a5ff78900483f2e82580fea0.jpg"
+				},
+				{
+					"id": 99749,
+					"image": "https://media.rawg.io/media/screenshots/c90/c9071628c238fbc20b366e2413dd8b4a.jpg"
+				},
+				{
+					"id": 99750,
+					"image": "https://media.rawg.io/media/screenshots/e29/e293b0f98092b8c0dbe24d66846088bb.jpg"
+				},
+				{
+					"id": 99751,
+					"image": "https://media.rawg.io/media/screenshots/168/16867bc76b385eb0fb749e41f7ada93d.jpg"
+				},
+				{
+					"id": 99752,
+					"image": "https://media.rawg.io/media/screenshots/fb9/fb917e562f311f48ff8d27632bd29a80.jpg"
+				},
+				{
+					"id": 99753,
+					"image": "https://media.rawg.io/media/screenshots/5f2/5f2ca569912add2a211b20ba3f576b97.jpg"
+				}
+		]
+    },
+    {   "id": 28, 
+        "slug": "red-dead-redemption-2", 
+        "name": "Red Dead Redemption 2", 
+        "released": "2018-10-26", 
+        "background_image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg", 
+        "rating": 4.59, 
+		"metacritic": 96,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2018-10-26",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 - Service Pack 1 (6.1.7601)<br></li><li><strong>Processor:</strong> Intel® Core™ i5-2500K / AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 150 GB available space<br></li><li><strong>Sound Card:</strong> Direct X Compatible</li></ul>",
+						"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 - April 2018 Update (v1803)<br></li><li><strong>Processor:</strong> Intel® Core™ i7-4770K / AMD Ryzen 5 1500X<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 150 GB available space<br></li><li><strong>Sound Card:</strong> Direct X Compatible</li></ul>"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2018-10-26",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2018-10-26",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "The Most Immersive World Ever Created",
+				"count": 4164,
+				"percent": 73.86,
+				"comment": "The most immersive open world ever created. Arthur Morgan is one of gaming's great characters and his story is told with surprising emotional depth. A slow burn that rewards patience enormously."
+			},
+			{
+				"id": 4,
+				"title": "A Slow Burn That Earns Every Moment",
+				"count": 995,
+				"percent": 17.65,
+				"comment": "A breathtaking achievement in world-building and character work. The pace is deliberately slow but the payoff is extraordinary. The ending ranks among the best in gaming history."
+			},
+			{
+				"id": 3,
+				"title": "Beautiful but Exhaustingly Slow",
+				"count": 302,
+				"percent": 5.36,
+				"comment": "Stunning to look at but the slow pace and rigid controls wore me down. It demands a lot of patience and not every player will feel the journey is worth it. A technical marvel with pacing issues."
+			},
+			{
+				"id": 1,
+				"title": "Too Long and Too Rigid to Enjoy",
+				"count": 177,
+				"percent": 3.14,
+				"comment": "Too slow and too long. The controls feel deliberately clunky and the story takes forever to get moving. I admire the craft but couldn't enjoy the experience."
+			}
+      	],
+      	"description": "Red Dead Redemption 2 is an epic Western action-adventure game set in a fictionalized version of the American frontier in 1899. Players control Arthur Morgan, an outlaw navigating the decline of the Wild West as law enforcement closes in on his gang. The game is celebrated for its stunning world, deeply human storytelling, and painstaking attention to historical detail."
+    	,
+		"playtime": {
+			"main_story": 51,
+			"main_extra": 83,
+			"completionist": 158
+		},
+        "short_screenshots": [
+				{
+					"id": 351,
+					"image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+				},
+				{
+					"id": 778173,
+					"image": "https://media.rawg.io/media/screenshots/7b8/7b8895a23e8ca0dbd9e1ba24696579d9.jpg"
+				},
+				{
+					"id": 778174,
+					"image": "https://media.rawg.io/media/screenshots/b8c/b8cee381079d58b981594ede46a3d6ca.jpg"
+				},
+				{
+					"id": 778175,
+					"image": "https://media.rawg.io/media/screenshots/fd6/fd6e41d4c30c098158568aef32dfed35.jpg"
+				},
+				{
+					"id": 778176,
+					"image": "https://media.rawg.io/media/screenshots/2ed/2ed3b2791b3bbed6b98bf362694aeb73.jpg"
+				},
+				{
+					"id": 778177,
+					"image": "https://media.rawg.io/media/screenshots/857/8573b9f4f06a0c112d6e39cdf3544881.jpg"
+				},
+				{
+					"id": 778178,
+					"image": "https://media.rawg.io/media/screenshots/985/985e3e1f1d1af1ab0797d43a95d472cc.jpg"
+				}
+		]
+    },
+    {   "id": 5679, 
+        "slug": "the-elder-scrolls-v-skyrim", 
+        "name": "The Elder Scrolls V: Skyrim", 
+        "released": "2011-11-11", 
+        "background_image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg", 
+        "rating": 4.42, 
+        "metacritic": 94,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 5,
+					"name": "RPG",
+					"slug": "role-playing-games-rpg",
+					"games_count": 62034,
+					"image_background": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 187,
+						"name": "PlayStation 5",
+						"slug": "playstation5",
+						"image": null,
+						"year_end": null,
+						"year_start": 2020,
+						"games_count": 1490,
+						"image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+					},
+					"released_at": "2011-11-11",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2011-11-11",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2011-11-11",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br>\t\t\t\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/Vista/XP PC (32 or 64 bit)<br>\t\t\t\t\t\t\t\t</li><li><strong>Processor:</strong> Dual Core 2.0GHz or equivalent processor<br>\t\t\t\t\t\t\t\t</li><li><strong>Memory:</strong> 2GB System RAM<br>\t\t\t\t\t\t\t\t</li><li><strong>Hard Disk Space:</strong> 6GB free HDD Space<br>\t\t\t\t\t\t\t\t</li><li><strong>Video Card:</strong> Direct X 9.0c compliant video card with 512 MB of RAM<br>\t\t\t\t\t\t\t\t</li><li><strong>Sound:</strong> DirectX compatible sound card<br>\t\t\t\t\t\t\t\t</li></ul>",
+						"recommended": "<strong>Recommended:</strong><br>\t\t\t\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>Processor:</strong> Quad-core Intel or AMD CPU<br>\t\t\t\t\t\t\t\t</li><li><strong>Memory:</strong> 4GB System RAM<br>\t\t\t\t\t\t\t\t</li><li><strong>Video Card:</strong> DirectX 9.0c compatible NVIDIA or AMD ATI video card with 1GB of RAM (Nvidia GeForce GTX 260 or higher; ATI Radeon 4890 or higher)<br>\t\t\t\t\t\t\t\t</li></ul>"
+					},
+					"requirements_ru": {
+						"minimum": "Core 2 Duo/Athlon X2 2 ГГц,2 Гб памяти,GeForce 8800/Radeon X1900,6 Гб на винчестере",
+						"recommended": "Core 2 Quad/Phenom X4 2.5 ГГц,4 Гб памяти,GeForce GTX 260/Radeon HD 4890,6 Гб на винчестере"
+					}
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2011-11-11",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 186,
+						"name": "Xbox Series S/X",
+						"slug": "xbox-series-x",
+						"image": null,
+						"year_end": null,
+						"year_start": 2020,
+						"games_count": 1255,
+						"image_background": "https://media.rawg.io/media/games/348/348640e78a7fcd4bb7dcad4fea014eeb.jpg"
+					},
+					"released_at": "2011-11-11",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 7,
+						"name": "Nintendo Switch",
+						"slug": "nintendo-switch",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5773,
+						"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+					},
+					"released_at": "2011-11-11",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2011-11-11",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2011-11-11",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "Freedom in Video Game Form",
+				"count": 2868,
+				"percent": 57.53,
+				"comment": "Skyrim is freedom in video game form. Hundreds of hours in and I'm still finding new places and stories. No other game has captured the feeling of exploring a living fantasy world quite like this."
+			},
+			{
+				"id": 4,
+				"title": "A Landmark Open World Adventure",
+				"count": 1562,
+				"percent": 31.33,
+				"comment": "A landmark RPG that delivers an unmatched sense of adventure and exploration. The main story is average but the world is extraordinary. Best experienced with a few good mods."
+			},
+			{
+				"id": 3,
+				"title": "Wide as an Ocean, Shallow as a Puddle",
+				"count": 447,
+				"percent": 8.97,
+				"comment": "Wide as an ocean, shallow as a puddle. The RPG systems are watered down compared to earlier Elder Scrolls games and the story is forgettable. Fun to explore but lacking real depth."
+			},
+			{
+				"id": 1,
+				"title": "Overrated and Oversimplified",
+				"count": 108,
+				"percent": 2.17,
+				"comment": "Overrated and oversimplified. The combat is clunky, the writing is poor, and the RPG elements are stripped to the bone. If you want a real RPG, look elsewhere."
+			}
+		],
+      	"description": "The Elder Scrolls V: Skyrim is an open-world fantasy RPG in which the player takes on the role of the Dragonborn, a hero with the ability to absorb the souls of dragons and wield their power. Set in the frozen northern province of Tamriel, the game offers hundreds of hours of exploration, dungeon crawling, and quest-driven adventure with nearly limitless character customization."
+    	,
+		"playtime": {
+			"main_story": 34,
+			"main_extra": 60,
+			"completionist": 232
+		},
+        "short_screenshots": [
+				{
+					"id": 231,
+					"image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+				},
+				{
+					"id": 118307,
+					"image": "https://media.rawg.io/media/screenshots/3bd/3bd2710bd1ffb6664fdea7b83afd067e.jpg"
+				},
+				{
+					"id": 118308,
+					"image": "https://media.rawg.io/media/screenshots/d4e/d4e9b13f54748584ccbd6f998094dade.jpg"
+				},
+				{
+					"id": 118309,
+					"image": "https://media.rawg.io/media/screenshots/599/59946a630e9c7871003763d63184404a.jpg"
+				},
+				{
+					"id": 118310,
+					"image": "https://media.rawg.io/media/screenshots/c5d/c5dad426038d7d12f933eedbeab48ff3.jpg"
+				},
+				{
+					"id": 118311,
+					"image": "https://media.rawg.io/media/screenshots/b32/b326fa01c82db82edd41ed299886ee44.jpg"
+				},
+				{
+					"id": 118312,
+					"image": "https://media.rawg.io/media/screenshots/091/091e95b49d5a22de036698fc731395a2.jpg"
+				}
+		]
+    },
+    {   "id": 13537, 
+        "slug": "half-life-2", 
+        "name": "Half-Life 2", 
+        "released": "2004-11-16", 
+        "background_image": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg", 
+        "rating": 4.48, 
+        "metacritic": 96,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2004-11-16",
+					"requirements_en": {
+						"minimum": "Minimum:\r\n\r\nOS: Windows 7, Vista, XP\r\n\r\nProcessor: 1.7 Ghz\r\n\r\nMemory: 512 MB RAM\r\n\r\nGraphics: DirectX 8.1 level Graphics Card (requires support for SSE)\r\n\r\nStorage: 6500 MB available space"
+					},
+					"requirements_ru": {
+						"minimum": "Pentium III/Athlon 1.2 ГГц,256 Мб памяти,3D-ускоритель с 64 Мб памяти,5 Гб на винчестере,доступ в Интернет",
+						"recommended": "Pentium 4/Athlon XP 2.5 ГГц,512 Мб памяти,3D-ускоритель со 128 Мб памяти,5 Гб на винчестере,доступ в Интернет"
+					}
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2004-11-16",
+					"requirements_en": {
+						"minimum": "Minimum:\r\n\r\nOS: Leopard 10.5.8, Snow Leopard 10.6.3, or higher\r\n\r\nMemory: 1 GB RAM\r\n\r\nGraphics: Nvidia GeForce8 or higher, ATI X1600 or higher, Intel HD 3000 or higher"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2004-11-16",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2004-11-16",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 80,
+						"name": "Xbox",
+						"slug": "xbox-old",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 881,
+						"image_background": "https://media.rawg.io/media/games/662/6625a20ca1d13699ee7c191b20a02408.jpg"
+					},
+					"released_at": "2004-11-16",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 21,
+						"name": "Android",
+						"slug": "android",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 52533,
+						"image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+					},
+					"released_at": "2004-11-16",
+					"requirements_en": {
+						"minimum": "4.4 and up"
+					},
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "Still Ahead of Its Time",
+				"count": 2631,
+				"percent": 63.66,
+				"comment": "Half-Life 2 redefined what games could be. The physics, the pacing, the environmental storytelling — everything works in perfect harmony. Two decades later it still feels ahead of its time."
+			},
+			{
+				"id": 4,
+				"title": "A Masterclass in Game Design",
+				"count": 1121,
+				"percent": 27.12,
+				"comment": "A masterclass in game design that holds up remarkably well. The gravity gun is one of the most satisfying weapons in shooter history. Essential for anyone serious about the medium."
+			},
+			{
+				"id": 3,
+				"title": "Important History, Showing Its Age",
+				"count": 244,
+				"percent": 5.9,
+				"comment": "Important historically but showing its age in places. The vehicle sections drag and the Ravenholm chapter, while iconic, is more annoying than scary today. Worth playing for context."
+			},
+			{
+				"id": 1,
+				"title": "A Product of Its Time That Hasn't Aged Well",
+				"count": 137,
+				"percent": 3.31,
+				"comment": "Couldn't connect with it. The dated graphics and slow start made it hard to push through. I understand its importance but it's a product of its time that doesn't translate well for new players."
+			}
+		],
+      	"description": "Half-Life 2 is a first-person shooter in which players return as Gordon Freeman, a scientist fighting against an alien occupation of Earth. Building on the original's legacy, the game introduced advanced physics-based gameplay and environmental storytelling that set a new benchmark for the medium. The gravity gun, the oppressive Combine forces, and the richly detailed world made it an instant classic."
+    	,
+		"playtime": {
+			"main_story": 13,
+			"main_extra": 17,
+			"completionist": 22
+		},
+        "short_screenshots": [
+				{
+					"id": 121,
+					"image": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg"
+				},
+				{
+					"id": 115804,
+					"image": "https://media.rawg.io/media/screenshots/8af/8af6188357426890cbc8c8a34d9e7b75.jpg"
+				},
+				{
+					"id": 115805,
+					"image": "https://media.rawg.io/media/screenshots/3b5/3b542c954ba5bd2f32da067c8122cd80.jpg"
+				},
+				{
+					"id": 115806,
+					"image": "https://media.rawg.io/media/screenshots/3d6/3d6066e45d259d2e83bf6767e6113d94.jpg"
+				},
+				{
+					"id": 115807,
+					"image": "https://media.rawg.io/media/screenshots/e49/e49327df2404df6c5dafa8eac7990852.jpg"
+				},
+				{
+					"id": 115808,
+					"image": "https://media.rawg.io/media/screenshots/5dd/5dd3e53131bbfe6278bd15b9abe261a0.jpg"
+				},
+				{
+					"id": 115809,
+					"image": "https://media.rawg.io/media/screenshots/e99/e995e154d4f9e2df0367adea528a72c5.jpg"
+				}
+		]
+    },
+    {   "id": 4062, 
+        "slug": "bioshock-infinite", 
+        "name": "BioShock Infinite", 
+        "released": "2013-03-26", 
+        "background_image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg", 
+        "rating": 4.38,
+        "metacritic": 94,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2013-03-26",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2013-03-26",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 7,
+						"name": "Nintendo Switch",
+						"slug": "nintendo-switch",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5773,
+						"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+					},
+					"released_at": "2013-03-26",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2013-03-26",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2013-03-26",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista Service Pack 2 32-bit<br>\t</li><li><strong>Processor:</strong> Intel Core 2 DUO 2.4 GHz / AMD Athlon X2 2.7 GHz<br>\t</li><li><strong>Memory:</strong> 2GB<br>\t</li><li><strong>Hard Disk Space:</strong> 20 GB free<br>\t</li><li><strong>Video Card:</strong> DirectX10 Compatible ATI Radeon HD 3870 / NVIDIA 8800 GT / Intel HD 3000 Integrated Graphics<br>\t</li><li><strong>Video Card Memory:</strong> 512 MB\t<br>\t</li><li><strong>Sound:</strong> DirectX Compatible</li></ul>",
+						"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 Service Pack 1 64-bit<br>\t</li><li><strong>Processor:</strong> Quad Core Processor<br>\t</li><li><strong>Memory:</strong> 4GB<br>\t</li><li><strong>Hard Disk Space:</strong> 30 GB free<br>\t</li><li><strong>Video Card:</strong> DirectX11 Compatible, AMD Radeon HD 6950 / NVIDIA GeForce GTX 560<br>\t</li><li><strong>Video Card Memory:</strong> 1024 MB\t<br>\t</li><li><strong>Sound:</strong> DirectX Compatible</li></ul>"
+					},
+					"requirements_ru": {
+						"minimum": "Win Vista 32\nCore 2 Duo E4600/Athlon 64 X2 5200+\nGeForce GT 340/Radeon HD 3800\n2 GB RAM\n20 GB HDD",
+						"recommended": "Win 7 64\nCore 2 Quad Q6600/Athlon II X4 610e\nGeForce GTX 560/Radeon HD 6950\n4 GB RAM\n20 GB HDD"
+					}
+				},
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2013-03-26",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2013-03-26",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "Columbia Left Me Absolutely Speechless",
+				"count": 2329,
+				"percent": 55.24,
+				"comment": "Columbia is one of the most memorable settings in gaming and the story is a genuine mind-bender. Elizabeth is the best AI companion ever designed. The ending left me speechless."
+			},
+			{
+				"id": 4,
+				"title": "Spectacular Story, Satisfying Combat",
+				"count": 1408,
+				"percent": 33.4,
+				"comment": "A visually spectacular game with a genuinely ambitious story. The combat is chaotic fun and the bond between Booker and Elizabeth is beautifully written. A worthy follow-up to the original."
+			},
+			{
+				"id": 3,
+				"title": "Pretty Ambition, Repetitive Execution",
+				"count": 363,
+				"percent": 8.61,
+				"comment": "The setting and story are impressive but the shooting feels repetitive and the ending is more confusing than clever. A game that tries very hard and succeeds about halfway."
+			},
+			{
+				"id": 1,
+				"title": "Pretentious Story, Mediocre Gameplay",
+				"count": 116,
+				"percent": 2.75,
+				"comment": "The story is pretentious and the gameplay is mediocre. The original BioShock was a masterpiece; this feels like a pale imitation dressed up in pretty clothes."
+			}
+		],
+		"description": "BioShock Infinite is a first-person shooter set in Columbia, a magnificent city floating in the sky in 1912. Players control Booker DeWitt, sent to rescue a mysterious young woman named Elizabeth who has been imprisoned in the city for years. The game explores themes of American exceptionalism, racism, and time through a mind-bending narrative and fast-paced combat."
+		,
+		"playtime": {
+			"main_story": 12,
+			"main_extra": 16,
+			"completionist": 21
+		},
+        "short_screenshots": [
+				{
+					"id": 31,
+					"image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+				},
+				{
+					"id": 98549,
+					"image": "https://media.rawg.io/media/screenshots/bf0/bf07e2c6d2c888d372917d9ef453c8a4.jpg"
+				},
+				{
+					"id": 98550,
+					"image": "https://media.rawg.io/media/screenshots/9d3/9d38833952812ad7888a6dc21699934f.jpg"
+				},
+				{
+					"id": 98551,
+					"image": "https://media.rawg.io/media/screenshots/595/59572d257b6797986e4eabcd1ee023fd.jpg"
+				},
+				{
+					"id": 98552,
+					"image": "https://media.rawg.io/media/screenshots/f71/f71c23eb76f050d6180490e82d58d799.jpg"
+				},
+				{
+					"id": 98553,
+					"image": "https://media.rawg.io/media/screenshots/871/8713411d5332ceb2b4092073a6f5f3f2.jpg"
+				},
+				{
+					"id": 98554,
+					"image": "https://media.rawg.io/media/screenshots/985/985b56daa78e0a23133518d4226e9f97.jpg"
+				}
+		]
+    },
+    {   "id": 802, 
+        "slug": "borderlands-2", 
+        "name": "Borderlands 2", 
+        "released": "2012-09-18", 
+        "background_image": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg", 
+        "rating": 4.01, 
+        "metacritic": 89,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				},
+				{
+					"id": 5,
+					"name": "RPG",
+					"slug": "role-playing-games-rpg",
+					"games_count": 62034,
+					"image_background": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2012-09-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2012-09-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2012-09-18",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3<br>\t</li><li><strong>Processor:</strong> 2.4 GHz Dual Core Processor<br>\t</li><li><strong>Memory:</strong> 2 GB(XP)/ 2 GB(Vista)<br>\t</li><li><strong>Hard Disk Space:</strong> 13 GB free<br>\t</li><li><strong>Video Memory:</strong> 256 MB<br>\t</li><li><strong>Video Card:</strong> NVIDIA GeForce 8500 /ATI Radeon HD 2600<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c Compatible<br>\t</li><li><strong>Other Requirements:</strong>Initial installation requires one-time internet connection for Steam authentication; software installations required (included with the game) include Steam Client, DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistributable 2010, and AMD CPU Drivers (XP Only/AMD Only)</li></ul>",
+						"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3/Vista/Win 7<br>\t</li><li><strong>Processor:</strong> 2.3 GHz Quad Core processor<br>\t</li><li><strong>Memory:</strong> 2 GB<br>\t</li><li><strong>Hard Disk Space:</strong> 20 GB free<br>\t</li><li><strong>Video Memory:</strong> 512MB<br>\t</li><li><strong>Video Card:</strong> NVIDIA GeForce GTX 560 / ATI Radeon HD 5850<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c Compatible<br>\t</li><li><strong>Other Requirements:</strong>Initial installation requires one-time internet connection for Steam authentication; software installations required (included with the game) include Steam Client, DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistributable 2010, and AMD CPU Drivers (XP Only/AMD Only)</li></ul>"
+					},
+					"requirements_ru": {
+						"minimum": "Core 2 Duo/Athlon 64 X2 2.4 ГГц,2 Гб памяти,GeForce 8500/Radeon HD 2600,13 Гб на винчестере,интернет-соединение",
+						"recommended": "Core i5/Phenom X4 2.3 ГГц,2 Гб памяти,GeForce GTX 560/Radeon HD 5850,20 Гб на винчестере,интернет-соединение"
+					}
+				},
+				{
+					"platform": {
+						"id": 21,
+						"name": "Android",
+						"slug": "android",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 52533,
+						"image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+					},
+					"released_at": "2012-09-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2012-09-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 19,
+						"name": "PS Vita",
+						"slug": "ps-vita",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 1461,
+						"image_background": "https://media.rawg.io/media/games/f99/f9979698c43fd84c3ab69280576dd3af.jpg"
+					},
+					"released_at": "2012-09-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2012-09-18",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 4,
+				"title": "Best Co-Op Shooter of Its Generation",
+				"count": 1597,
+				"percent": 47.81,
+				"comment": "The best co-op shooter of its generation. Handsome Jack is a legendary villain and the loot system is endlessly addictive. Four-player co-op with good friends is an absolute joy."
+			},
+			{
+				"id": 5,
+				"title": "The Looter-Shooter Formula Perfected",
+				"count": 1036,
+				"percent": 31.02,
+				"comment": "Borderlands 2 perfected the looter-shooter formula. The humor lands more often than it misses and the character builds allow for real creativity. Sunk hundreds of hours into this."
+			},
+			{
+				"id": 3,
+				"title": "Fun With Friends, Hollow Alone",
+				"count": 565,
+				"percent": 16.92,
+				"comment": "Fun with friends but hollow solo. The humor wears thin quickly and the mission structure is repetitive. A good co-op game dressed up as something deeper than it actually is."
+			},
+			{
+				"id": 1,
+				"title": "Humor Misses and Gameplay Wears Thin",
+				"count": 142,
+				"percent": 4.25,
+				"comment": "The humor is juvenile and the gameplay loop wore me out after a few hours. The loot system creates an illusion of depth that isn't really there. Not my kind of game at all."
+			}
+		],
+		"description": "Borderlands 2 is a first-person looter-shooter set on the alien planet of Pandora. Players choose from several vault hunters — each with unique abilities — and battle through a chaotic world filled with procedurally generated weapons and the villainous Handsome Jack. Known for its irreverent humor, addictive loot system, and excellent co-op gameplay for up to four players."
+		,
+		"playtime": {
+			"main_story": 30,
+			"main_extra": 55,
+			"completionist": 137
+		},
+        "short_screenshots": [
+				{
+					"id": 21,
+					"image": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 7041,
+					"image": "https://media.rawg.io/media/screenshots/adb/adbbb37113618ee107459cd5c344f2a8.jpg"
+				},
+				{
+					"id": 7062,
+					"image": "https://media.rawg.io/media/screenshots/616/61643dd96e936d29eb68cf53b2334e53.jpg"
+				},
+				{
+					"id": 7070,
+					"image": "https://media.rawg.io/media/screenshots/864/8644946ba14a03ab69f0766c42a03f80.jpg"
+				},
+				{
+					"id": 7072,
+					"image": "https://media.rawg.io/media/screenshots/f87/f87ad2b8f02b56e36c57b25cf8eac042.jpg"
+				},
+				{
+					"id": 7081,
+					"image": "https://media.rawg.io/media/screenshots/194/194e0962afa272604300001718a07793.jpg"
+				},
+				{
+					"id": 7088,
+					"image": "https://media.rawg.io/media/screenshots/297/29716964351ecd82545f1de3a50dfc4e.jpg"
+				}
+		]
+    },
+    {   "id": 3439, 
+        "slug": "life-is-strange", 
+        "name": "Life is Strange", 
+        "released": "2015-01-29", 
+        "background_image": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg", 
+        "rating": 4.12, 
+        "metacritic": 83,
+		"genres": [
+				{
+					"id": 3,
+					"name": "Adventure",
+					"slug": "adventure",
+					"games_count": 152060,
+					"image_background": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 3,
+						"name": "iOS",
+						"slug": "ios",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 77451,
+						"image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+					},
+					"released_at": "2015-01-29",
+					"requirements_en": {
+						"minimum": "iPhone 5s, iPad Air, iPad Air Cellular, iPad Mini Retina, iPad Mini Retina Cellular, iPhone 6, iPhone 6 Plus, iPad Air 2, iPad Air 2 Cellular, iPad Mini 3, iPad Mini 3 Cellular, iPod Touch Sixth Gen, iPhone 6s, iPhone 6s Plus, iPad Mini 4, iPad Mini 4 Cellular, iPad Pro, iPad Pro Cellular, iPad Pro 9.7, iPad Pro 9.7 Cellular, iPhone SE, iPhone 7, iPhone 7 Plus, iPad 6 1 1, iPad 6 1 2, iPad 7 1, iPad 7 2, iPad 7 3, iPad 7 4, iPhone 8, iPhone 8 Plus, iPhone X, iPad 7 5, iPad 7 6, iPhone X S, iPhone X S Max, iPhone X R, iPad 8 1 2, iPad 8 3 4, iPad 8 5 6, iPad 8 7 8, iPad Mini 5, iPad Mini 5 Cellular, iPad Air 3, iPad Air 3 Cellular, iPod Touch Seventh Gen"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2015-01-29",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2015-01-29",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2015-01-29",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2015-01-29",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2015-01-29",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 21,
+						"name": "Android",
+						"slug": "android",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 52533,
+						"image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+					},
+					"released_at": "2015-01-29",
+					"requirements_en": {
+						"minimum": "6.0 and up"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2015-01-29",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2015-01-29",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "Made Me Feel Things Games Rarely Do",
+				"count": 1684,
+				"percent": 44.05,
+				"comment": "Life is Strange made me genuinely emotional in ways few games ever have. The time-rewind mechanic is used thoughtfully and Max and Chloe's friendship feels completely real."
+			},
+			{
+				"id": 4,
+				"title": "A Moving and Original Adventure",
+				"count": 1393,
+				"percent": 36.44,
+				"comment": "A moving and original adventure game that takes its characters seriously. The mystery is compelling and the soundtrack is perfectly chosen. Episode four in particular is devastating."
+			},
+			{
+				"id": 3,
+				"title": "Uneven Writing Holds It Back",
+				"count": 506,
+				"percent": 13.24,
+				"comment": "The writing is inconsistent and some of the dialogue tries too hard to sound authentic. The story has real emotional moments but also some that fall completely flat. A mixed bag."
+			},
+			{
+				"id": 1,
+				"title": "Slow Drama That Never Earns Its Ending",
+				"count": 240,
+				"percent": 6.28,
+				"comment": "Slow, predictable, and the teenage drama felt forced throughout. The time mechanic is underused and the ending felt unearned. Adventure game fans deserve better than this."
+			}
+		],
+		"description": "Life is Strange is an episodic adventure game following Max Caulfield, a photography student who discovers she has the ability to rewind time. Reunited with her childhood friend Chloe in the fictional town of Arcadia Bay, Max uses her powers to unravel a dark mystery surrounding a missing girl. The game is praised for its emotional storytelling and meaningful player choices."
+		,
+		"playtime": {
+			"main_story": 10,
+			"main_extra": 11,
+			"completionist": 13
+		},
+        "short_screenshots": [
+				{
+					"id": 91,
+					"image": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg"
+				},
+				{
+					"id": 1826487,
+					"image": "https://media.rawg.io/media/screenshots/edf/edfcbdf85f02f871263dabf1b4f0aa87.jpg"
+				},
+				{
+					"id": 1826488,
+					"image": "https://media.rawg.io/media/screenshots/4c6/4c6da2f36396d4ed51f82ba6159fa39b.jpg"
+				},
+				{
+					"id": 1826489,
+					"image": "https://media.rawg.io/media/screenshots/6aa/6aa56ef1485c8b287a913fa842883daa.jpg"
+				},
+				{
+					"id": 1826490,
+					"image": "https://media.rawg.io/media/screenshots/cb1/cb148b52fe857f5b0b83ae9c01f56d8e.jpg"
+				},
+				{
+					"id": 1826491,
+					"image": "https://media.rawg.io/media/screenshots/aea/aea38b33b90054f8fe4cc8bb05253b1d.jpg"
+				},
+				{
+					"id": 1826492,
+					"image": "https://media.rawg.io/media/screenshots/c1d/c1d6333b2da0f920e8de10c14d3c6093.jpg"
+				}
+		]
+    },
+    {   "id": 4286, 
+        "slug": "bioshock", 
+        "name": "BioShock", 
+        "released": "2007-08-21", 
+        "background_image": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg", 
+        "rating": 4.36, 
+        "metacritic": 96,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2007-08-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2007-08-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2007-08-21",
+					"requirements_en": {
+						"minimum": "<h2 class=\"bb_tag\"><strong>Minimum: </strong></h2><ul class=\"bb_ul\"><li><strong>Operating System</strong>: Windows XP (with Service Pack 2) or Windows Vista<br></li><li><strong>CPU</strong>: Intel single-core Pentium 4 processor at 2.4GHz<br></li><li><strong>RAM</strong>: 1 GB<br></li><li><strong>Video Card</strong>: Direct X 9.0c compliant video card with 128MB RAM and Pixel Shader 3.0 (NVIDIA 6600 or better/ATI X1300 or better, excluding ATI X1550)<br></li><li><strong>Sound Card</strong>: 100% direct X 9.0c compatible sound card<br></li><li><strong>Hard Drive Space</strong>: 8GB<br></li><li>Game requires Internet connection for activation</li></ul>",
+						"recommended": "<h2 class=\"bb_tag\"><strong>Recommended: </strong></h2><ul class=\"bb_ul\"><li><strong>CPU</strong>: Intel Core 2 Duo processor<br></li><li><strong>RAM</strong>: 2GB<br></li><li><strong>Video Card</strong>: DX 9 - Direct X 9.0c compliant video card with 512 MB RAM and Pixel Shader 3.0 (NVIDIA GeForce 7900 GT or better), DX 10 - NVIDIA GeForce 8600 or better<br></li><li><strong>Sound Card</strong>: SoundBlaster(r) X-Fi(tm) series (optimized foruse with Creative Labs EAX ADVANCED HD 4.0 or EAX ADVANCED HD 5.0 compatible sound cards)</li></ul>"
+					},
+					"requirements_ru": {
+						"minimum": "Pentium 4/Athlon 64 2.5 ГГц,1 Гб памяти,3D-ускоритель со 128 Мб памяти и SM 3.0, 7.5 Гб на винчестере, Windows XP SP2 или Vista,Интернет-соединение",
+						"recommended": "Core 2 Duo/Athlon 64 X2 3 ГГц,2 Гб памяти,3D-ускоритель с 512 Мб памяти и SM 3.0, 7.5 Гб на винчестере, Windows Vista,Интернет-соединение"
+					}
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2007-08-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "One of Gaming's Greatest Achievements",
+				"count": 1803,
+				"percent": 52.89,
+				"comment": "BioShock is one of the greatest games ever made. Rapture is an astonishing creation and the story is both thrilling and philosophically rich. The twist remains one of gaming's finest moments."
+			},
+			{
+				"id": 4,
+				"title": "Dark, Atmospheric, Unforgettable",
+				"count": 1242,
+				"percent": 36.43,
+				"comment": "A dark, atmospheric masterpiece with one of the most memorable settings in any game. The plasmid system keeps combat fresh and the storytelling through the environment is extraordinary."
+			},
+			{
+				"id": 3,
+				"title": "Brilliant Start, Tedious Finish",
+				"count": 257,
+				"percent": 7.54,
+				"comment": "Great atmosphere and story let down by repetitive combat in the back half. Once the twist lands the game struggles to maintain its momentum. Brilliant in places, tedious in others."
+			},
+			{
+				"id": 1,
+				"title": "Overpraised and Overrated",
+				"count": 107,
+				"percent": 3.14,
+				"comment": "The atmosphere is suffocating in a bad way and the combat is clunky and unenjoyable. The story is good but not enough to carry the experience. Overpraised by far."
+			}
+		],
+		"description": "BioShock is a first-person shooter set in Rapture, a dystopian underwater city built on the philosophy of objectivism that has collapsed into chaos. Players must fight through the decaying city using conventional weapons and plasmids — genetic modifications that grant supernatural powers. Widely regarded as one of the greatest games ever made for its atmosphere, story, and design."
+		,
+		"playtime": {
+			"main_story": 12,
+			"main_extra": 15,
+			"completionist": 20
+		},
+        "short_screenshots": [
+				{
+					"id": 71,
+					"image": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+				},
+				{
+					"id": 170993,
+					"image": "https://media.rawg.io/media/screenshots/01f/01f62d7064838a5c3202acfc61503487.jpg"
+				},
+				{
+					"id": 170994,
+					"image": "https://media.rawg.io/media/screenshots/7f5/7f517e07e36e4af5a7c0b86a7d42853f.jpg"
+				},
+				{
+					"id": 170995,
+					"image": "https://media.rawg.io/media/screenshots/aca/aca089b963a42ec4cbf56b5e5334af8e.jpg"
+				},
+				{
+					"id": 170996,
+					"image": "https://media.rawg.io/media/screenshots/3aa/3aa6f71eba1d64e671bd45826ca96560.jpg"
+				},
+				{
+					"id": 170997,
+					"image": "https://media.rawg.io/media/screenshots/d8e/d8ed29c7c0b41e4013588847944ed446.jpg"
+				},
+				{
+					"id": 170998,
+					"image": "https://media.rawg.io/media/screenshots/146/146e418797aca19296f90d259207414c.jpg"
+				}
+		]
+    },
+    {   "id": 32, 
+        "slug": "destiny-2", 
+        "name": "Destiny 2", 
+        "released": "2017-09-06", 
+        "background_image": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg", 
+        "rating": 3.52, 
+        "metacritic": 82,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2017-09-06",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2017-09-06",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2017-09-06",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 171,
+						"name": "Web",
+						"slug": "web",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 260067,
+						"image_background": "https://media.rawg.io/media/games/8ba/8ba1178d043aa752838d68b14fffb922.jpg"
+					},
+					"released_at": "2017-09-06",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 186,
+						"name": "Xbox Series S/X",
+						"slug": "xbox-series-x",
+						"image": null,
+						"year_end": null,
+						"year_start": 2020,
+						"games_count": 1255,
+						"image_background": "https://media.rawg.io/media/games/348/348640e78a7fcd4bb7dcad4fea014eeb.jpg"
+					},
+					"released_at": "2017-09-06",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 187,
+						"name": "PlayStation 5",
+						"slug": "playstation5",
+						"image": null,
+						"year_end": null,
+						"year_start": 2020,
+						"games_count": 1490,
+						"image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+					},
+					"released_at": "2017-09-06",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 4,
+				"title": "Nothing Matches a Great Raid Night",
+				"count": 1186,
+				"percent": 44.01,
+				"comment": "When Destiny 2 is at its best — a well-designed raid with a great fireteam — there's nothing quite like it. The gunplay is exceptional and the lore runs incredibly deep for those willing to dig."
+			},
+			{
+				"id": 3,
+				"title": "Great Gameplay, Predatory Model",
+				"count": 884,
+				"percent": 32.8,
+				"comment": "The gameplay is silky smooth but the live-service model creates a grind that feels more like a job than fun. Content vaulting removes work you've already paid for. Frustrating business practices."
+			},
+			{
+				"id": 5,
+				"title": "The Best-Feeling Shooter Available",
+				"count": 364,
+				"percent": 13.51,
+				"comment": "The best-feeling shooter available, full stop. The raids are spectacular co-op experiences and the universe is fascinating. Has its flaws but nothing else scratches the same itch."
+			},
+			{
+				"id": 1,
+				"title": "Designed to Extract Money, Not Fun",
+				"count": 261,
+				"percent": 9.68,
+				"comment": "A game designed to extract money rather than deliver fun. The content model is predatory and the story has been told in the most convoluted way imaginable. Pass entirely."
+			}
+		],
+		"description": "Destiny 2 is a free-to-play online multiplayer first-person shooter set in a science-fantasy universe. Players create a Guardian — a soldier empowered by a mysterious entity called the Traveler — and defend humanity against alien threats across the solar system. The game features story campaigns, cooperative raids, and competitive PvP modes, with regular seasonal content updates."
+		,
+		"playtime": {
+			"main_story": 12,
+			"main_extra": 94,
+			"completionist": 519
+		},
+        "short_screenshots": [
+				{
+					"id": 61,
+					"image": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg"
+				},
+				{
+					"id": 2629150,
+					"image": "https://media.rawg.io/media/screenshots/818/818cc34134cb22fb18fda8edec7144a3.jpg"
+				},
+				{
+					"id": 2629151,
+					"image": "https://media.rawg.io/media/screenshots/003/003a559bc0b47a4e5f2928f18a8d9142.jpg"
+				},
+				{
+					"id": 2629152,
+					"image": "https://media.rawg.io/media/screenshots/75d/75d8fbb3254f5b06f1a3f9a026d9c122.jpg"
+				},
+				{
+					"id": 2629153,
+					"image": "https://media.rawg.io/media/screenshots/ca3/ca3bdc1a51fc90a96c860ab6db8a313c.jpg"
+				},
+				{
+					"id": 2629154,
+					"image": "https://media.rawg.io/media/screenshots/575/5751a70c954618a99ec574f32be7ad43.jpg"
+				},
+				{
+					"id": 2629155,
+					"image": "https://media.rawg.io/media/screenshots/2e7/2e7304d3b9e670f943d0bd1e4be090f0.jpg"
+				}
+			]
+    },
+    {   "id": 58175, 
+        "slug": "god-of-war-2018", 
+        "name": "God of War (2018)", 
+        "released": "2018-04-20", 
+        "background_image": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg", 
+        "rating": 4.54, 
+        "metacritic": 94,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2018-04-20",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 70 GB available space<br></li><li><strong>Additional Notes:</strong> DirectX feature level 11_1 required</li></ul>",
+						"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 70 GB available space<br></li><li><strong>Additional Notes:</strong> DirectX feature level 11_1 required</li></ul>"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2018-04-20",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 5,
+				"title": "A Masterpiece of Character and Combat",
+				"count": 3698,
+				"percent": 70.16,
+				"comment": "A masterpiece of character-driven action gaming. Kratos and Atreus share one of the most compelling relationships in any medium. The combat is deeply satisfying and the world is breathtaking."
+			},
+			{
+				"id": 4,
+				"title": "A Brilliant Reinvention of a Legend",
+				"count": 1117,
+				"percent": 21.19,
+				"comment": "God of War reinvented itself brilliantly. The single-shot camera creates an intimacy that draws you into every moment. A genuinely emotional story wrapped in excellent combat."
+			},
+			{
+				"id": 3,
+				"title": "Beautiful But Unevenly Paced",
+				"count": 265,
+				"percent": 5.03,
+				"comment": "Beautiful and well-made but I found the pacing uneven and Atreus irritating at times. The combat depth is there but the story takes too long to reach its peaks."
+			},
+			{
+				"id": 1,
+				"title": "Overhyped Mythology Dressed as Depth",
+				"count": 191,
+				"percent": 3.62,
+				"comment": "Overhyped and overlong. The combat is shallow once you get past the spectacle and the story is a series of fetch quests dressed up as mythology. Not the reinvention it claims to be."
+			}
+		],
+		"description": "God of War is an action-adventure game that reinvents the series with a more intimate, narrative-driven approach. Kratos, the former Greek god of war, now lives in the Norse realm with his young son Atreus. Together they embark on a perilous journey to fulfill a dying wish, confronting gods, monsters, and their complicated relationship along the way."
+		,
+		"playtime": {
+			"main_story": 21,
+			"main_extra": 29,
+			"completionist": 51
+		},
+        "short_screenshots": [
+				{
+					"id": -1,
+					"image": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				},
+				{
+					"id": 766263,
+					"image": "https://media.rawg.io/media/screenshots/d68/d6868e5f7bce66e326bd48b11ba24b13.jpeg"
+				},
+				{
+					"id": 766264,
+					"image": "https://media.rawg.io/media/screenshots/928/928cdaf4ae204f202d177bbd65e911b3.jpeg"
+				},
+				{
+					"id": 766265,
+					"image": "https://media.rawg.io/media/screenshots/a54/a549a06ebe89c570cabb57308c4c42a5.jpeg"
+				},
+				{
+					"id": 766266,
+					"image": "https://media.rawg.io/media/screenshots/f02/f0279f8199da3e91134078e737e5fbcf.jpg"
+				},
+				{
+					"id": 766267,
+					"image": "https://media.rawg.io/media/screenshots/e87/e87c57660c7c37fe973c6dd6ebcc1ac6.jpeg"
+				},
+				{
+					"id": 766268,
+					"image": "https://media.rawg.io/media/screenshots/5b7/5b7280fe437c39d3ce501a867c46a998.jpeg"
+				}
+			]
+    },
+    {   "id": 3070, 
+        "slug": "fallout-4", 
+        "name": "Fallout 4", 
+        "released": "2015-11-09", 
+        "background_image": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg", 
+        "rating": 3.81, 
+        "metacritic": 84,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 5,
+					"name": "RPG",
+					"slug": "role-playing-games-rpg",
+					"games_count": 62034,
+					"image_background": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2015-11-09",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2015-11-09",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 550 Ti 2GB/AMD Radeon HD 7870 2GB or equivalent<br></li><li><strong>Storage:</strong> 30 GB available space</li></ul>",
+						"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i7 4790 3.6 GHz/AMD FX-9590 4.7 GHz or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 780 3GB/AMD Radeon R9 290X 4GB or equivalent<br></li><li><strong>Storage:</strong> 30 GB available space</li></ul>"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 187,
+						"name": "PlayStation 5",
+						"slug": "playstation5",
+						"image": null,
+						"year_end": null,
+						"year_start": 2020,
+						"games_count": 1490,
+						"image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+					},
+					"released_at": "2015-11-09",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2015-11-09",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 4,
+				"title": "A Great Game, A Disappointing Fallout",
+				"count": 1678,
+				"percent": 48.36,
+				"comment": "A great open-world game even if it's a disappointing RPG. The gunplay is the best in the series and the settlement building is genuinely addictive. Explore everything and ignore the main quest."
+			},
+			{
+				"id": 3,
+				"title": "Beautiful World, Missing Its Soul",
+				"count": 877,
+				"percent": 25.27,
+				"comment": "Fun to play but hollow compared to its predecessors. The dialogue system strips away real choice and the factions lack the moral ambiguity that made Fallout great. A beautiful game without a soul."
+			},
+			{
+				"id": 5,
+				"title": "Gets Unfair Criticism From Purists",
+				"count": 742,
+				"percent": 21.38,
+				"comment": "Fallout 4 gets unfair criticism. The world is rich, the combat is exciting, and the survival mode adds genuine tension. Not the RPG purists wanted but a great game on its own terms."
+			},
+			{
+				"id": 1,
+				"title": "A Betrayal of Everything Fallout Stands For",
+				"count": 173,
+				"percent": 4.99,
+				"comment": "A betrayal of what Fallout stands for. The dialogue options are meaningless, the story is insulting in its simplicity, and the RPG depth has been gutted entirely. New Vegas did everything better."
+			}
+		],
+		"description": "Fallout 4 is a post-apocalyptic action RPG set in the ruins of Boston, Massachusetts in the year 2287. Players emerge from a vault 210 years after a nuclear war to search for their missing son in a world populated by mutants, raiders, and warring factions. The game features base-building mechanics, deep crafting systems, and a vast open world to explore."
+		,
+		"playtime": {
+			"main_story": 27,
+			"main_extra": 51,
+			"completionist": 130
+		},
+        "short_screenshots": [
+				{
+					"id": -1,
+					"image": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+				},
+				{
+					"id": 27994,
+					"image": "https://media.rawg.io/media/screenshots/f55/f5598897e0e418c67521f2213dceb459.jpg"
+				},
+				{
+					"id": 27996,
+					"image": "https://media.rawg.io/media/screenshots/37c/37ce90b25d84e531743917165115d24c.jpg"
+				},
+				{
+					"id": 28000,
+					"image": "https://media.rawg.io/media/screenshots/fd3/fd3a97519e6d1b73f429f6bfcfb3bcf5.jpg"
+				},
+				{
+					"id": 28002,
+					"image": "https://media.rawg.io/media/screenshots/069/0691b4c1b839e55531d8c3206cd83dd7.jpg"
+				},
+				{
+					"id": 28004,
+					"image": "https://media.rawg.io/media/screenshots/cc0/cc0b3e29b579faae8d8585fd9ecff142.jpg"
+				},
+				{
+					"id": 28006,
+					"image": "https://media.rawg.io/media/screenshots/99c/99c81029aeace339293753186246099f.jpg"
+				}
+		]
+    },
+    {   "id": 1030, 
+        "slug": "limbo", 
+        "name": "Limbo", 
+        "released": "2010-07-21", 
+        "background_image": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg", 
+        "rating": 4.14, 
+        "metacritic": 88,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 3,
+					"name": "Adventure",
+					"slug": "adventure",
+					"games_count": 152060,
+					"image_background": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg"
+				},
+				{
+					"id": 51,
+					"name": "Indie",
+					"slug": "indie",
+					"games_count": 86613,
+					"image_background": "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg"
+				},
+				{
+					"id": 7,
+					"name": "Puzzle",
+					"slug": "puzzle",
+					"games_count": 97449,
+					"image_background": "https://media.rawg.io/media/games/948/948fe7f00b6cba8472f5ecd07a455077.jpg"
+				},
+				{
+					"id": 83,
+					"name": "Platformer",
+					"slug": "platformer",
+					"games_count": 100939,
+					"image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2024-11-01",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7(SP1+) and above<br></li><li><strong>Processor:</strong> x64 or x86<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+					},
+					"requirements_ru": {
+						"minimum": "Pentium 4/Athlon XP 2 ГГц,512 Мб памяти,3D-ускоритель с 256 Мб памяти,150 Мб на винчестере",
+						"recommended": "Core 2 Duo/Atlon X2 2 ГГц,1 Гб памяти,3D-ускоритель с 512 Мб памяти,150 Мб на винчестере"
+					}
+				},
+				{
+					"platform": {
+						"id": 21,
+						"name": "Android",
+						"slug": "android",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 52533,
+						"image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": {
+						"minimum": "4.4 and up"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 19,
+						"name": "PS Vita",
+						"slug": "ps-vita",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 1461,
+						"image_background": "https://media.rawg.io/media/games/f99/f9979698c43fd84c3ab69280576dd3af.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 18,
+						"name": "PlayStation 4",
+						"slug": "playstation4",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 7032,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 16,
+						"name": "PlayStation 3",
+						"slug": "playstation3",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 3209,
+						"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 14,
+						"name": "Xbox 360",
+						"slug": "xbox360",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 2831,
+						"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": {
+						"minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS, Ubuntu 12.04 or later, or otherwise compatible Linux distribution.<br>\t\t\t\t\t\t</li><li><strong>Processor:</strong> 2GHz<br>\t\t\t\t\t\t</li><li><strong>Memory:</strong> 1 GB RAM <br>\t\t\t\t\t\t</li><li><strong>Hard Disk Space:</strong> 150MB\t<br>\t\t\t\t\t\t</li><li><strong>Video Card:</strong> OpenGL 2.0 compatible video card with 256 MB shared or dedicated RAM <br>\t\t\t\t\t</li></ul>"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": {
+						"minimum": "Please be advised that LIMBO only runs Macs produced in 2009 and onwards.<br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Snow Leopard 10.6.3 or later.<br>\t\t\t\t\t\t</li><li><strong>Processor:</strong> Intel Mac<br>\t\t\t\t\t\t</li><li><strong>Memory:</strong> 1 GB RAM <br>\t\t\t\t\t\t</li><li><strong>Hard Disk Space:</strong> 150MB\t<br>\t\t\t\t\t\t</li><li><strong>Video Card:</strong> OpenGL 2.0 compatible video card with 256 MB shared or dedicated RAM (ATI or NVIDIA) <br>\t\t\t\t\t</li></ul>"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 3,
+						"name": "iOS",
+						"slug": "ios",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 77451,
+						"image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": {
+						"minimum": "iPad 2 Wifi, iPad 2 3G, iPhone 4S, iPad Third Gen, iPad Third Gen 4G, iPhone 5, iPod Touch Fifth Gen, iPad Fourth Gen, iPad Fourth Gen 4G, iPad Mini, iPad Mini 4G, iPhone 5c, iPhone 5s, iPad Air, iPad Air Cellular, iPad Mini Retina, iPad Mini Retina Cellular, iPhone 6, iPhone 6 Plus, iPad Air 2, iPad Air 2 Cellular, iPad Mini 3, iPad Mini 3 Cellular, iPod Touch Sixth Gen, iPhone 6s, iPhone 6s Plus, iPad Mini 4, iPad Mini 4 Cellular, iPad Pro, iPad Pro Cellular, iPad Pro 9.7, iPad Pro 9.7 Cellular, iPhone SE, iPhone 7, iPhone 7 Plus, iPad 6 1 1, iPad 6 1 2, iPad 7 1, iPad 7 2, iPad 7 3, iPad 7 4, iPhone 8, iPhone 8 Plus, iPhone X, iPad 7 5, iPad 7 6, iPhone X S, iPhone X S Max, iPhone X R, iPad 8 1 2, iPad 8 3 4, iPad 8 5 6, iPad 8 7 8, iPad Mini 5, iPad Mini 5 Cellular, iPad Air 3, iPad Air 3 Cellular, iPod Touch Seventh Gen"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 7,
+						"name": "Nintendo Switch",
+						"slug": "nintendo-switch",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5773,
+						"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+					},
+					"released_at": "2010-07-21",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 4,
+				"title": "Dark, Beautiful, and Quietly Affecting",
+				"count": 1811,
+				"percent": 52.52,
+				"comment": "Limbo is a beautiful and unsettling experience that proves games can be art. The monochromatic world is stunning and the puzzle design is creative without being frustrating. A gem."
+			},
+			{
+				"id": 5,
+				"title": "One of the Most Striking Games Ever Made",
+				"count": 1179,
+				"percent": 34.19,
+				"comment": "One of the most visually striking and atmospherically perfect games ever made. Short but deeply affecting. The silence, the shadows, and the helplessness of the boy stay with you."
+			},
+			{
+				"id": 3,
+				"title": "All Style, Not Enough Substance",
+				"count": 344,
+				"percent": 9.98,
+				"comment": "Atmospheric but thin on substance. The puzzles are hit or miss and the story is so minimal it borders on pretentious. Pretty to look at but I wanted more from the experience."
+			},
+			{
+				"id": 1,
+				"title": "Style Over Substance, Nothing More",
+				"count": 114,
+				"percent": 3.31,
+				"comment": "Style over substance. The game leans entirely on its visual identity and the puzzles don't hold up. Short, frustrating in the wrong ways, and ultimately forgettable despite the aesthetic."
+			}
+		],
+		"description": "Limbo is a dark, atmospheric puzzle-platformer in which a young boy journeys through a monochromatic world searching for his sister. The game uses stark black and white visuals and environmental storytelling to create a haunting, wordless narrative. Its puzzles are clever and often deadly, with trial-and-error deaths that feel more poetic than frustrating. A landmark of indie game artistry."
+		,
+		"playtime": {
+			"main_story": 3,
+			"main_extra": 4,
+			"completionist": 6
+		},
+        "short_screenshots": [
+				{
+					"id": 41,
+					"image": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+				},
+				{
+					"id": 30985,
+					"image": "https://media.rawg.io/media/screenshots/512/512f4bc2092016478ddcb9e7e60aeec0.jpg"
+				},
+				{
+					"id": 30986,
+					"image": "https://media.rawg.io/media/screenshots/63d/63d30699e8fcab9c808e6714d9d3fd59.jpg"
+				},
+				{
+					"id": 30987,
+					"image": "https://media.rawg.io/media/screenshots/de0/de04bbc0fd9904071ef25bf23113c8c4.jpg"
+				},
+				{
+					"id": 30988,
+					"image": "https://media.rawg.io/media/screenshots/eed/eedbbca4ae2debf2d4e23e55d1f6cff7.jpg"
+				},
+				{
+					"id": 30989,
+					"image": "https://media.rawg.io/media/screenshots/59f/59f472b3ed7b414777a29213d70b4d17.jpg"
+				},
+				{
+					"id": 30991,
+					"image": "https://media.rawg.io/media/screenshots/e58/e58d31146e4a9e3786dabcbfc30126bc.jpg"
+				}
+		]
+    },
+    {   "id": 3939, 
+        "slug": "payday-2", 
+        "name": "PAYDAY 2", 
+        "released": "2013-08-13", 
+        "background_image": "https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg", 
+        "rating": 3.52, 
+        "metacritic": 79,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2013-08-13",
+					"requirements_en": null,
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2013-08-13",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows 7<br>\t</li><li><strong>Processor:</strong>2 GHz Intel Dual Core Processor<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>Nvidia &amp; AMD (512MB VRAM)<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>31 GB HD space <br>\t</li><li><strong>Sound:</strong>DirectX 9.0c compatible</li></ul>",
+						"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows 10<br>\t</li><li><strong>Processor:</strong>2.3 GHz Intel Quad Core Processor<br>\t</li><li><strong>Memory:</strong>8 GB RAM<br>\t</li><li><strong>Graphics:</strong>Nvidia &amp; AMD (1GB VRAM)<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>45 GB HD space<br>\t</li><li><strong>Sound:</strong>DirectX 9.0c compatible</li></ul>"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 1,
+						"name": "Xbox One",
+						"slug": "xbox-one",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 5742,
+						"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+					},
+					"released_at": "2013-08-13",
+					"requirements_en": null,
+					"requirements_ru": null
+				}
+		],
+		"ratings": [
+			{
+				"id": 4,
+				"title": "Chaos and Satisfaction in Equal Measure",
+				"count": 1169,
+				"percent": 51.57,
+				"comment": "PAYDAY 2 with a good crew is endlessly entertaining. The heist variety is impressive and the feeling of a clean stealth run is deeply satisfying. A chaotic blast when everyone knows their role."
+			},
+			{
+				"id": 3,
+				"title": "Fun Concept Buried in Rough Design",
+				"count": 617,
+				"percent": 27.22,
+				"comment": "Fun in concept but rough in execution. The learning curve is brutal, the DLC situation is predatory, and solo play is a miserable experience. Has its moments but asks too much of new players."
+			},
+			{
+				"id": 5,
+				"title": "The Deepest Heist Game Ever Made",
+				"count": 244,
+				"percent": 10.76,
+				"comment": "The deepest and most replayable heist game ever made. The sheer variety of approaches, builds, and missions keeps things fresh for hundreds of hours. Nothing else quite like it."
+			},
+			{
+				"id": 1,
+				"title": "DLC Greed Ruined What Could Have Been",
+				"count": 237,
+				"percent": 10.45,
+				"comment": "Years of DLC abuse have left this game in a terrible state for newcomers. The base experience is shallow and the community is unforgiving. Not worth the investment of time or money."
+			}
+		],
+		"description": "PAYDAY 2 is a cooperative first-person shooter focused on planning and executing heists. Players take on the roles of career criminals completing jobs ranging from bank robberies to drug lab raids, with options to go in loud or attempt a stealthy approach. The game features deep progression systems, extensive weapon customization, and a vast library of heist missions."
+		,
+		"playtime": {
+			"main_story": 19,
+			"main_extra": 78,
+			"completionist": 166
+		},
+        "short_screenshots": [
+				{
+					"id": 34,
+					"image": "https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg"
+				},
+				{
+					"id": 74194,
+					"image": "https://media.rawg.io/media/screenshots/c38/c38f5aa479eebab20cedcdae370e6e18.jpg"
+				},
+				{
+					"id": 74195,
+					"image": "https://media.rawg.io/media/screenshots/442/442be5656b314e3289ecd1486b5282f1.jpg"
+				},
+				{
+					"id": 74196,
+					"image": "https://media.rawg.io/media/screenshots/c2c/c2ccfeaeda357f932d1899a91f298850.jpg"
+				},
+				{
+					"id": 74197,
+					"image": "https://media.rawg.io/media/screenshots/a18/a18da938def6ce6e5b571f1c20272ab0.jpg"
+				},
+				{
+					"id": 74198,
+					"image": "https://media.rawg.io/media/screenshots/a5d/a5da0d01195f01cdedec974d52892128.jpg"
+				},
+				{
+					"id": 74199,
+					"image": "https://media.rawg.io/media/screenshots/4ee/4ee5c3c8b850ab4ba8e04b9f5d5ab060.jpg"
+				}
+			]
+    },
+    {   "id": 11859, 
+        "slug": "team-fortress-2", 
+        "name": "Team Fortress 2", 
+        "released": "2007-10-10", 
+        "background_image": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg", 
+        "rating": 3.68, 
+        "metacritic": 92,
+		"genres": [
+				{
+					"id": 4,
+					"name": "Action",
+					"slug": "action",
+					"games_count": 191729,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				{
+					"id": 2,
+					"name": "Shooter",
+					"slug": "shooter",
+					"games_count": 59641,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				}
+		],
+		"platforms": [
+				{
+					"platform": {
+						"id": 6,
+						"name": "Linux",
+						"slug": "linux",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 80438,
+						"image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+					},
+					"released_at": "2007-10-10",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> Dual core from Intel or AMD at 2.8 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 (Graphic Drivers: nVidia 310, AMD 12.11), OpenGL 2.1<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Sound Card:</strong> OpenAL Compatible Sound Card</li></ul>"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 5,
+						"name": "macOS",
+						"slug": "macos",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 108098,
+						"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+					},
+					"released_at": "2007-10-10",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard 10.5.8 and above<br></li><li><strong>Processor:</strong> 1.7 GHz Processor or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8 or higher, ATI X1600 or higher, Intel HD 3000 or higher<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
+					},
+					"requirements_ru": null
+				},
+				{
+					"platform": {
+						"id": 4,
+						"name": "PC",
+						"slug": "pc",
+						"image": null,
+						"year_end": null,
+						"year_start": null,
+						"games_count": 561090,
+						"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+					},
+					"released_at": "2007-10-10",
+					"requirements_en": {
+						"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7 (32/64-bit)/Vista/XP<br></li><li><strong>Processor:</strong> 1.7 GHz Processor or better<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>DirectX:</strong> Version 8.1<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>",
+						"recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7 (32/64-bit)<br></li><li><strong>Processor:</strong> Pentium 4 processor (3.0GHz, or better)<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
+					},
+					"requirements_ru": {
+						"minimum": "Pentium 4/Athlon XP 1.7 ГГц,512 Мб памяти,3D-ускоритель со 128 Мб памяти,7.5 Гб на винчестере,Интернет-соединение 128 Кб/c",
+						"recommended": "Core 2 Duo/Athlon 64 3 ГГц,1 Гб памяти,3D-ускоритель с 512 Мб памяти,12 Гб на винчестере,Интернет-соединение 512 Кб/c"
+					}
+				}
+		],
+		"ratings": [
+			{
+				"id": 4,
+				"title": "A Classic That Has Stood the Test of Time",
+				"count": 1333,
+				"percent": 44.88,
+				"comment": "TF2 is a classic for good reason. Nine perfectly balanced classes, maps that have stood the test of time, and a community still creating content after all these years. A legendary multiplayer game."
+			},
+			{
+				"id": 3,
+				"title": "Great Bones Undermined by Neglect",
+				"count": 706,
+				"percent": 23.77,
+				"comment": "The bot infestation in recent years has seriously damaged the experience. At its peak it was untouchable, but finding a clean server today is frustrating. The bones are still great though."
+			},
+			{
+				"id": 5,
+				"title": "The Greatest Class-Based Shooter Ever",
+				"count": 638,
+				"percent": 21.48,
+				"comment": "The greatest class-based shooter ever made. Every class is a masterpiece of design and the game has more personality in one map than most games have in their entire runtime. Timeless."
+			},
+			{
+				"id": 1,
+				"title": "Abandoned by Valve, Overrun by Bots",
+				"count": 293,
+				"percent": 9.87,
+				"comment": "Overrun with bots and ignored by Valve for years. What was once a great game is now a frustrating mess that new players have no reason to wade through when better options exist."
+			}
+		],
+		"description": "Team Fortress 2 is a team-based multiplayer first-person shooter featuring nine distinct classes, each with a unique role and playstyle. Two teams compete across a variety of game modes including capture the flag, payload, and king of the hill. Known for its colorful art style, deep mechanical skillplay, and vibrant community, it remains free to play and actively enjoyed years after launch."
+		,
+		"playtime": {
+			"main_story": null,
+			"main_extra": null,
+			"completionist": null
+		},
+        "short_screenshots": [
+				{
+					"id": 26,
+					"image": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+				},
+				{
+					"id": 97905,
+					"image": "https://media.rawg.io/media/screenshots/596/5968ba06bac8bee0ec7e9d03c970c421.jpg"
+				},
+				{
+					"id": 97906,
+					"image": "https://media.rawg.io/media/screenshots/94f/94f4eb0b3d1fde7a37ec84f0f66f7f87.jpg"
+				},
+				{
+					"id": 97907,
+					"image": "https://media.rawg.io/media/screenshots/a0a/a0ad82cad18d0a2466d1d5f12bf8858c.jpg"
+				},
+				{
+					"id": 97908,
+					"image": "https://media.rawg.io/media/screenshots/a83/a83038d2ec296522ab1b9ab0521b1ec3.jpg"
+				},
+				{
+					"id": 97909,
+					"image": "https://media.rawg.io/media/screenshots/8d4/8d488a3e65256ec777c8097b0faacc78.jpg"
+				},
+				{
+					"id": 97910,
+					"image": "https://media.rawg.io/media/screenshots/707/707c7488bd6e35bc74d274a923bc1df2.jpg"
+				}
+			]
+    }
+  ]
+}

@@ -3631,5 +3631,28 @@
 				}
 			]
     }
+  ],
+  "comments": [
+	    {
+      "id": "c1",
+      "gameId": "3498",
+      "author": "André",
+      "body": "One of the best games to revisit with friends.",
+      "createdAt": "2026-06-13T12:02:00.000Z"
+    },
+    {
+      "id": "c2",
+      "gameId": "3498",
+      "author": "Theo",
+      "body": "The open world still feels incredible.",
+      "createdAt": "2026-06-13T12:05:00.000Z"
+    },
+    {
+      "id": "c3",
+      "gameId": "3498",
+      "author": "Julian",
+      "body": "Ok game I guess.",
+      "createdAt": "2026-06-13T22:22:00.000Z"
+    }
   ]
 }
